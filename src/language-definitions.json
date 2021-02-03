@@ -47,6 +47,12 @@
     "string_tokens": ["string"],
     "bracket_tokens": ["punctuation"]
   },
+    "latex": {
+    "quotes": [],
+    "brackets": ["\\()\\","$$"],
+    "string_tokens": ["string"],
+    "bracket_tokens": ["punctuation"]
+  },
   "html": {
     "quotes": ["\"", "'"],
     "brackets": [],
